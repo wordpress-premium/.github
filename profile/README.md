@@ -4,7 +4,9 @@
 
 **[WordPress Premium](https://www.wordpress-premium.org/?ref=gh)** is a collection of Git repositories offering free pro and premium WordPress plugins. All plugins are thoroughly scanned for malware, up-to-date, and free of ads. Read more on wordpress-premium.org, and [don't forget to donate](https://www.paypal.com/paypalme/thaikolja/10)!
 
-<img src="https://raw.githubusercontent.com/thaikolja/assets/main/2024/09/05-05-50-27-logo-with-title-and-subtitle.webp?token=AJBBHRSW6RM7AVU57TQMBWLG3DSHC" title="WordPress Premium - Premium and Pro Plugins for free" width="100%" height="auto">
+<a href="https://www.wordpress-premium.org/?ref=gh" target="_blank">
+  <img src="https://raw.githubusercontent.com/thaikolja/assets/main/2024/09/05-05-50-27-logo-with-title-and-subtitle.webp?token=AJBBHRSW6RM7AVU57TQMBWLG3DSHC" title="WordPress Premium - Premium and Pro Plugins for free" width="100%" height="auto">
+</a>
 
 ## ✨ Features
 
