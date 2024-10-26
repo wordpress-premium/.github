@@ -18,7 +18,7 @@ All plugins are hand-collected and activated by experienced software developers.
 
 Our experienced developers thoroughly scan each plugin for viruses, ads, and other malware and, if found, entirely remove them.
 
-## ⚡️ Up-to-Date
+### ⚡️ Up-to-Date
 
 We keep our plugins up-to-date with the latest versions on several Git repositories. You can always download the latest version of the plugin from our repositories.
 
