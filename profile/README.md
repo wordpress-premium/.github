@@ -2,34 +2,32 @@
 
 ![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=orange&color=green&link=https://www.paypal.com/paypalme/thaikolja/10)
 
-**[WordPress Premium](https://www.wordpress-premium.net)** is a collection of Git repositories offering pro and premium WordPress plugins on an affordable, cance-anytime subscription basis. All plugins are thoroughly scanned for malware, up-to-date, and free of ads. **However, until our website [wordpress-premium.net](https://www.wordpress-premium.net) is up and running, access to all of our public repositories for free**! ([Donations are always welcome 😉](https://www.paypal.com/paypalme/thaikolja/10)!
+![wordpress-premium.net](https://camo.githubusercontent.com/0e5c77462ab181236de71267235aa59ee67b7fa86fb68235aef3bfdd4d9cb376/68747470733a2f2f692e696d6775722e636f6d2f353343473277302e706e67)
 
-**Contact:** info@wordpress-premium.net
+**[WordPress Premium](https://www.wordpress-premium.net)** offers a collection of Git repositories hosting pro and premium WordPress plugins for **a flat price of only $5/month**—no auto-renewal, no strings attached. Just pay for the month(s) you wish to have access to our carefully curated list of WordPress plugins on **[GitLab](https://gitlab.com/wordpress-premium/)** and **[GitHub](https://github.com/wordpress-premium/)**, and stop paying whenever you feel like it.
 
-![<a href="https://www.wordpress-premium.met" target="_blank">WordPress Premium Logo</a>](https://i.imgur.com/53CG2w0.png)
+## ✨ Core Values
 
-## ✨ Features
+#### [WordPress Premium](https://wordpress-premium.net/) is committed to upholding our three core values:
 
-**Plugins provided by [WordPress Premium](https://www.wordpress-premium.net) are always:**
+1. **Malware-free**: Every plugin in our repository is rigorously checked by experienced developers, which will keep your site safe and your privacy intact.
 
-### 💰 Currently Free
+2. **Up-to-date:** Automatic reminders whenever a new version is released prompt us to make it available for our customers as soon as possible.
 
-For an affordable monthly fee, you will have access to all curated WordPress pro and premium plugins, all plugins are hand-collected and activated by experienced software developers. During our launch phase, however, access to our repositories on [GitLab](https://gitlab.com/wordpress-premium/) or from [GitHub](https://github.com/wordpress-premium/) is for free (a [small donation would be welcome, though 🤤](https://www.paypal.com/paypalme/thaikolja/10)).
+3. **Quality plugins:** Even though we consider requests, our WordPress pro and premium plugins list is well-curated so that we can dedicate our time to the most popular and useful ones.
 
-### 🛟 Safety and Privacy
 
-Our experienced developers thoroughly scan each plugin for viruses, ads, and other malware and, if found, entirely remove them.
+> [!TIP]
+>
+> Until our website [wordpress-premium.net](https://wordpress-premium.net/) is fully completed, **all repositories for our pro and premium plugins are free**! Use it while it lasts 😉 If you'd like to support our efforts, [a small donation](https://www.paypal.com/paypalme/thaikolja/10) goes a long way.
 
-### ⚡️ Up-to-Date
-
-We keep our plugins up-to-date with the latest versions on several Git repositories. You can always download the latest version of the plugin from our repositories.
-
-## 💾 Download
-
-Until our website [wordpress-premium.net](https://www.wordpress-premium.net) is up and fully running, you can download all of our curated plugin repositories from [GitLab](https://gitlab.com/wordpress-premium/) or from [GitHub](https://github.com/wordpress-premium/) to use for your website **for free**! Use it while it lasts.
 
 ---
 
-## 📜 License
+## ✉️ Contact
 
-*Please note that all downloads of activated plugins are for testing and research purposes only. If you decide to use one of the plugins in our collection, please purchase a license from the official author(s).*
+You can contact us at [info@wordpress-premium.net](mailto:info@wordpress-premium.net).
+
+## 📜 Disclaimer
+
+*Please note that all downloads of activated or so-called "nulled" plugins are only for testing and research purposes. If you decide to use one of the plugins from our collection, please purchase a license from the official author(s)—they're the ones who did the work!*
