@@ -1,33 +1,36 @@
-# WordPress Premium
+# WordPress Premium - wordpress-premium.net
 
-![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=orange&color=green&link=https://www.paypal.com/paypalme/thaikolja/10)
+![Free](https://img.shields.io/badge/Subscription-Free-orange?style=flat) ![Donate via PayPal](https://img.shields.io/badge/Donate-via_PayPal-blue?style=flat&logo=github-sponsors&logoColor=red&link=https%3A%2F%2Fwww.paypal.com%2Fpaypalme%2Fthaikolja%2F5&link=https%3A%2F%2Fwww.paypal.com%2Fpaypalme%2Fthaikolja%2F5) ![Doante via Cryptocurrencies](https://img.shields.io/badge/Donate-via_Crypto-red?&style=flat&logo=github-sponsors&logoColor=red&link=https%3A%2F%2Fwww.wordpress-premium.net%2Fwallets%2F&link=https%3A%2F%2Fwww.wordpress-premium.net%2Fwallets%2F) ![WordPress Premoum Users](https://img.shields.io/github/stars/wordpress-premium?style=flat&label=Users&color=darkcyan) 
 
-![wordpress-premium.net](https://camo.githubusercontent.com/0e5c77462ab181236de71267235aa59ee67b7fa86fb68235aef3bfdd4d9cb376/68747470733a2f2f692e696d6775722e636f6d2f353343473277302e706e67)
+<a href="https://www.wordpress-premium.net" target="_blank">
+	<picture>
+    <source srcset="https://p.ipic.vip/o53c8h.jpg" type="image/webp">
+    <source srcset="https://p.ipic.vip/jcfx1q.png" type="image/png">
+    <img src="https://p.ipic.vip/jcfx1q.png" alt="Free WordPress Pro and Premium Plugins">
+	</picture>
+</a>
 
-**[WordPress Premium](https://www.wordpress-premium.net)** offers a collection of Git repositories hosting pro and premium WordPress plugins for **a flat price of only $5/month**—no auto-renewal, no strings attached. Just pay for the month(s) you wish to have access to our carefully curated list of WordPress plugins on **[GitLab](https://gitlab.com/wordpress-premium/)** and **[GitHub](https://github.com/wordpress-premium/)**, and stop paying whenever you feel like it.
+**Welcome to WordPress Premium. [WordPress Premium](https://www.wordpress-premium.net)** offers a collection of Git repositories hosting activated and malware-free pro and premium WordPress plugins free of charge. With our well-curated and ever-expanding number of repositories, we hope you find the plugin you're looking for—free, security-inspected, and always up-to-date.
+
+> [!NOTE] 
+> Currently, this service is free of charge. However, once we reach a certain number of plugins to manage, which requires a lot of effort, we must charge a flat fee of $5 per month to allow us to continue providing quality service according to our core values (see below). Until then, enjoy free access to our repositories on **[GitLab](https://gitlab.com/wordpress-premium/)** and **[GitHub](https://github.com/wordpress-premium/)**.
 
 ## ✨ Core Values
 
 #### [WordPress Premium](https://wordpress-premium.net/) is committed to upholding our three core values:
 
-1. **Malware-free**: Every plugin in our repository is rigorously checked by experienced developers, which will keep your site safe and your privacy intact.
+1. **Malware-free**: Every plugin in our repository is rigorously checked by experienced developers, ensuring your site remains safe and your privacy is intact.
+2. **Up-to-date:** We're working hard to keep all plugins in our repository up-to-date so you always have the latest and most compatible version of the plugin.
+3. **Quality Plugins:** All of our plugins are carefully selected to provide you with the most popular and most used plugins. Individual plugin requests are possible by [opening a "Request"](https://github.com/orgs/wordpress-premium/discussions/new?category=requests) under "Discussions."
 
-2. **Up-to-date:** Automatic reminders whenever a new version is released prompt us to make it available for our customers as soon as possible.
+## 🙏 Support
 
-3. **Quality plugins:** Even though we consider requests, our WordPress pro and premium plugins list is well-curated so that we can dedicate our time to the most popular and useful ones.
-
-
-> [!TIP]
->
-> Until our website [wordpress-premium.net](https://wordpress-premium.net/) is fully completed, **all repositories for our pro and premium plugins are free**! Use it while it lasts 😉 If you'd like to support our efforts, [a small donation](https://www.paypal.com/paypalme/thaikolja/10) goes a long way.
-
-
----
+Keeping plugins up-to-date and checking every code for possible malware takes a lot of time. If you can, please consider leaving a small donation [via PayPal](https://www.paypal.com/paypalme/thaikolja/5) or [cryptocurrencies](https://www.wordpress-premium.net/wallets/) to thank us for our efforts, no matter how much.
 
 ## ✉️ Contact
 
-You can contact us at [info@wordpress-premium.net](mailto:info@wordpress-premium.net).
+You can contact us at [info@wordpress-premium.net](mailto:info@wordpress-premium.net). For plugin requests, please see [this announcement](https://github.com/orgs/wordpress-premium/discussions/1).
 
-## 📜 Disclaimer
+## ⚖️ Disclaimer
 
-*Please note that all downloads of activated or so-called "nulled" plugins are only for testing and research purposes. If you decide to use one of the plugins from our collection, please purchase a license from the official author(s)—they're the ones who did the work!*
+*Please note that all downloads of activated or so-called "nulled" plugins are only for testing and research purposes. If you decide to use a plugin from our collection, **please buy a license from the official author(s)**; they are the ones who did the work!*
